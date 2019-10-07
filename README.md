@@ -1,2 +1,2 @@
-# belajar-java-pbo
+# belajar-pbo
 Modul dan beberapa latihan di pbo dasar dan di praktikum UIN Malang

@@ -1,2 +1,2 @@
 # belajar-pbo
-Modul dan latihan di praktikum pbo UIN Malang
+Belajar Pemrograman Java materi PBO berdasar modul praktikum di UIN Malang
